@@ -1,7 +1,7 @@
-/** Cory M Curtis
+/** Cory M Curtis Marcus Case
  *  2019/8/29
  *
- *  This is my first hack
+ *  Prints name and major
  */
 
 #include <stdlib.h>
